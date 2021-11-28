@@ -1,0 +1,34 @@
+S1 Jefferson Key Code - 20150822 
+
+Key:
+33, 28, 71, 11, 56, 40, 85, 64, 97.
+
+XQXFEETHAPKLJHXREHNJFTSYOL:EJWIWMPZKLRIELCP1FESZROPPOBOUQDXMLZKRGVK2EPRISZXNOXE3
+
+Note: 1, 2, 3 in the above are replaced with greek letters delta, phi, theta
+
+If we apply the first numerical key, 33, to the letters we would count 3 over on the first row then identify the next 5 letters, FEETH. The next number, 3, indicates the original position of this letter row. Using 28, you would count 8 more letters over and identify 5 letters that would be placed in the row 2 position.
+
+
+JWIWM
+EHNJF
+FEETH
+FESZR
+ELCP1
+RGVK2
+SYOL:
+OUQDX
+NOXE3
+
+1 = delta
+2 = phi
+3 = theta 
+
+Python Implementation
+----------------------
+- Uses slicing, 
+	msg[2:] = 2nd (zero based) letter to end of string
+	
+	
+	
+
